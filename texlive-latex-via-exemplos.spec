@@ -1,6 +1,6 @@
 Name:		texlive-latex-via-exemplos
-Version:	63374
-Release:	2
+Version:	68627
+Release:	1
 Summary:	A LaTeX course written in brazilian portuguese language
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-via-exemplos
