@@ -3,7 +3,7 @@ Version:	68627
 Release:	1
 Summary:	A LaTeX course written in brazilian portuguese language
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-via-exemplos
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/latex-via-exemplos
 License:	gpl2+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-via-exemplos.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-via-exemplos.doc.r%{version}.tar.xz
